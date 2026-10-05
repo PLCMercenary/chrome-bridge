@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  body { font: 13px system-ui, sans-serif; margin: 12px; min-width: 220px; }
+  h1 { font-size: 14px; margin: 0 0 8px; }
+  label { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; }
+  #status { color: #555; }
+</style>
+</head>
+<body>
+  <h1>Chrome Bridge</h1>
+  <label><input type="checkbox" id="enabled"> Allow agent connections</label>
+  <div id="status">Checking...</div>
+  <script src="popup.js"></script>
+</body>
+</html>

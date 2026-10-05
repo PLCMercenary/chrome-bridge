@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-labelledby="t">
+  <title id="t">chrome-bridge logo</title>
+  <rect width="128" height="128" rx="28" fill="#0f172a"/>
+  <!-- bookmark ribbon -->
+  <path d="M53 12h22v32l-11-8.5L53 44z" fill="#fbbf24"/>
+  <!-- suspension cable and hangers -->
+  <path d="M14 82Q64 20 114 82" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round"/>
+  <g stroke="#38bdf8" stroke-width="4" stroke-linecap="round">
+    <path d="M39 59v23M64 51v31M89 59v23"/>
+  </g>
+  <!-- deck -->
+  <path d="M10 84h108" stroke="#e2e8f0" stroke-width="7" stroke-linecap="round"/>
+  <!-- tab group -->
+  <g>
+    <path d="M18 112v-12a6 6 0 0 1 6-6h18a6 6 0 0 1 6 6v12z" fill="#22c55e"/>
+    <path d="M50 112v-12a6 6 0 0 1 6-6h18a6 6 0 0 1 6 6v12z" fill="#a78bfa"/>
+    <path d="M82 112v-12a6 6 0 0 1 6-6h18a6 6 0 0 1 6 6v12z" fill="#94a3b8"/>
+  </g>
+</svg>
