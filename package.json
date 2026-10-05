@@ -16,5 +16,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PLCMercenary/chrome-bridge.git"
-  }
+  },
+  "license": "MIT"
 }

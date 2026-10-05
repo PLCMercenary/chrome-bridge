@@ -183,3 +183,7 @@ extension/background.js   connection, auth, and the command table
 extension/popup.*         on/off switch and connection status
 assets/logo.svg           project logo
 ```
+
+## License
+
+[MIT](LICENSE)
